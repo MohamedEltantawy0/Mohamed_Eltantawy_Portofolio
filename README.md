@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MohamedEltantawy0/Mohamed_Eltantawy_Portofolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MohamedEltantawy0/Mohamed_Eltantawy_Portofolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Project : 1 [Scraping Students Information From a Website And Attach it To DataFrame](https://github.com/MohamedEltantawy0/students-information-gathering.git)
+# I have made a small script to enter the website and loginto it because it needs to login to start scraping
+# website need to login a again every  minutes so i am getting the headers ad cookies multiple times for big data scraping
+# I have created small easy and simple script to take two numbers the first is our start and the second is where we stop
+# I made some lists to save the data i gatherd at so i can make a small dataframe with pandas , save it and save the final result in csv file
