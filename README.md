@@ -7,12 +7,6 @@
  I made some lists to save the data i gatherd at so i can make a small dataframe with pandas , save it and save the final result in csv file
 
 
-# Project : 2 [Cleansing-Some-Data] (https://github.com/MohamedEltantawy0/Cleaning-Some-Missed-Data.git)
--i have imported pandas ,numpy and matplotlib(if i need to visualize data) 
--i took the data set from the cliet 
--i was asked to clean the data then make a table with word to define proplems
--i scratched it fast and give him this report
-
 
 # Project : 3 [Scraping jobsonline](https://github.com/MohamedEltantawy0/Scraping-jobs.git)
 I had a client who wanted me to scrape jobsonline.com and gather these information:
@@ -22,3 +16,14 @@ I had a client who wanted me to scrape jobsonline.com and gather these informati
 -4 more info abour this job
 -5 job function
 I used beautifusoup only in this easy job and saved the data in csv file
+
+
+
+# Project : 2 [Cleansing-Some-Data] (https://github.com/MohamedEltantawy0/Cleaning-Some-Missed-Data.git)
+-i have imported pandas ,numpy and matplotlib(if i need to visualize data) 
+-i took the data set from the cliet 
+-i was asked to clean the data then make a table with word to define proplems
+-i scratched it fast and give him this report
+
+
+
