@@ -19,7 +19,7 @@ In here we used beautifusoup only in this easy job and saved the data in csv fil
 
 
 
-# Project : 3 [Cleansing-Some-Data] (https://github.com/MohamedEltantawy0/Cleaning-Some-Missed-Data.git)
+# Project : 3 [Cleansing-Some-Data](https://github.com/MohamedEltantawy0/Cleaning-Some-Missed-Data.git)
 -imported pandas ,numpy and matplotlib(if i need to visualize data) 
 -i took the data set from the cliet 
 -then i was asked to clean the data then make a table with word to define proplems
