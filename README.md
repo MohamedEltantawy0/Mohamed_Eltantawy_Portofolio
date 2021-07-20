@@ -1,4 +1,4 @@
-# Hello, My name is Mohamed Eltantawy and I live in egypt, I analyse datasets and answer all questions you asked about this data .pretty good scraper using beautifulsoup . Acctually I love data it make me feel that I belongs to this world. My wish was to be cyber security i am seeking to achieve it.
+# Hello, My name is Mohamed Eltantawy and I live in Egypt, I analyze datasets and answer all question you asked about this data .pretty good scraper using Beautifulsoup . Actually I love data it make me feel that I belongs to this world. My wish was to be cyber security i am seeking to achieve it
 
 # Project : 1 [Scraping Students Information From a Website And Attach it To a DataFrame](https://github.com/MohamedEltantawy0/students-information-gathering.git)
  Created a small script to enter the website and loginto it because it needs to login to start scraping
