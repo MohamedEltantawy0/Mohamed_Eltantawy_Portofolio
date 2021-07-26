@@ -1,6 +1,6 @@
 # Hello, My name is Mohamed Eltantawy and I live in Egypt, I analyze datasets and answer all questions you asked about this data .pretty good scraper using Beautifulsoup . Actually I love data it make me feel that I belongs to this world. My wish was to be cyber security and i am seeking to achieve it
 
-### Project : 1 [Analyze and visualize sales of electronic store](https://github.com/MohamedEltantawy0/electronic-store-sales-analysis)
+# Project : 1 [Analyze and visualize sales of electronic store](https://github.com/MohamedEltantawy0/electronic-store-sales-analysis)
 -First of all the data quality wasn't good so I added columns like(city and state, sales , order date) it makes my life easier
 -after that I started to answer 5 questions:
 what is the best month of sales and how much
@@ -10,7 +10,7 @@ what products are most ofen sold together
 what product sold the most and why do you think it sold the most?
 -These questions need to use various methods like (apply,groupby,count,counter,concat.....)
 
-### project : 2 [KPMG Virtual internship module 2](https://github.com/MohamedEltantawy0/KPMG-Virtual-internship-module-2)
+# project : 2 [KPMG Virtual internship module 2](https://github.com/MohamedEltantawy0/KPMG-Virtual-internship-module-2)
  There are 5 tasks in this internship:
 -data quality check , table makeing and draft and email to the company with the details
 -data exploration
@@ -33,7 +33,7 @@ Weather is Clear' and 'Relative Humidity is greater than 50'or'Visibility is abo
 -Answering all those questions wasn't that hard at the end.
 
 
-### Project : 4 [Scraping Students Information From a Website And Attach it To a DataFrame](https://github.com/MohamedEltantawy0/students-information-gathering.git)
+# Project : 4 [Scraping Students Information From a Website And Attach it To a DataFrame](https://github.com/MohamedEltantawy0/students-information-gathering.git)
  Created a small script to enter the website and loginto it because it needs to login to start scraping
  website need to login a again every  minutes so i am getting the headers ad cookies multiple times for big data scraping
  I have created small easy and simple script to take two numbers the first is our start and the second is where we stop
@@ -41,7 +41,7 @@ Weather is Clear' and 'Relative Humidity is greater than 50'or'Visibility is abo
 
 
 
-### Project : 5 [Scraping jobs online](https://github.com/MohamedEltantawy0/Scraping-jobs.git)
+# Project : 5 [Scraping jobs online](https://github.com/MohamedEltantawy0/Scraping-jobs.git)
 I had a client who wanted me to scrape jobsonline.com and gather these information:
 -1 links of every job i collect
 -2 companies names
